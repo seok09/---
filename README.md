@@ -1,6 +1,9 @@
+# MyProject GitHub Repository
+
+*This document describes the project repository hosted on GitHub, including source code, documentation, and version history.*
 # GitHub 작성법 초보 가이드
 
-### 1. GitHub란?
+## 1. GitHub란?
 - GitHub는 **내 코드나 프로젝트를 인터넷에 저장하고 관리하는 서비스**야.
 - 여러 사람이 함께 작업할 수도 있어.
 
